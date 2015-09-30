@@ -12,3 +12,6 @@
 
 ## [面试题4：替换空格](https://github.com/xiaff/sword-offer-practice/blob/master/problem_4.cpp)
 请实现一个函数，把字符串中的每个空格替换成“%20”。例如输入“We are happy.”，则输出“We%20are%20happy.”。
+
+## [面试题5：从尾到头打印链表](https://github.com/xiaff/sword-offer-practice/blob/master/problem_5.cpp)
+输入一个链表的头结点，从尾到头发过来打印出每个结点的值。
