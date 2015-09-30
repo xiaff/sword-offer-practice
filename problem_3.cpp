@@ -22,7 +22,7 @@ public:
 			return false;
 		}
 
-		for (int row = 0, col = colNumber - 1;row<rowNumber&&col >= 0;;) {
+		for (int row = 0, col = colNumber - 1;row<rowNumber&&col >= 0;) {
 			int current = matrix[row][col];
 			if (number == current) {
 				return true;
