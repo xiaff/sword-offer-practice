@@ -23,4 +23,4 @@ public:
 private:
   char* m_pData;
 
-}
+};
