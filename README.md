@@ -15,3 +15,6 @@
 
 ## [面试题5：从尾到头打印链表](https://github.com/xiaff/sword-offer-practice/blob/master/problem_5.cpp)
 输入一个链表的头结点，从尾到头发过来打印出每个结点的值。
+
+## [面试题6：重建二叉树](https://github.com/xiaff/sword-offer-practice/blob/master/problem_6.cpp)
+输入某二叉树的前序遍历和中序遍历的结果，请重建出该二叉树。假设输入的前序遍历和中序遍历的结果中都不含重复的数字。
