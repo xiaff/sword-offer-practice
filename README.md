@@ -35,3 +35,7 @@ f(n)=f(n-1)+f(n-2)。
 ## [面试题10:二进制中1的个数](https://github.com/xiaff/sword-offer-practice/blob/master/10-19/problem_10.cpp)
 请实现一个函数,输入一个函数,输出该数二进制表示中1的个数。
 例如把9表示成二进制是1001，有2位是1。因此如果输入9，该函数输出2。
+
+## [面试题11:数值的整数次方](https://github.com/xiaff/sword-offer-practice/blob/master/10-19/problem_11.cpp)
+实现函数 double Power(double base, int exponent)，求base的exponent次方。
+不得使用库函数，同时不需要考虑大数问题。

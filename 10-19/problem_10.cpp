@@ -10,6 +10,7 @@ public:
 	int numberOfOne(int number){
 		int count=0;
 		while(number){
+			//将number中最右的1改为0
 			number=(number-1)&number;
 			count++;
 		}
