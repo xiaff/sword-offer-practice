@@ -39,3 +39,6 @@ f(n)=f(n-1)+f(n-2)。
 ## [面试题11:数值的整数次方](https://github.com/xiaff/sword-offer-practice/blob/master/10-19/problem_11.cpp)
 实现函数 double Power(double base, int exponent)，求base的exponent次方。
 不得使用库函数，同时不需要考虑大数问题。
+
+## [面试题12:打印1到最大的n位数](https://github.com/xiaff/sword-offer-practice/blob/master/10-19/problem_12.cpp)
+输入数字 n，按顺序打印出从 1 到最大的 n 位十进制数。比如输入数字 3，则打印出 1、2、3 ··· 999。
