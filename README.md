@@ -42,3 +42,6 @@ f(n)=f(n-1)+f(n-2)。
 
 ## [面试题12:打印1到最大的n位数](https://github.com/xiaff/sword-offer-practice/blob/master/10-19/problem_12.cpp)
 输入数字 n，按顺序打印出从 1 到最大的 n 位十进制数。比如输入数字 3，则打印出 1、2、3 ··· 999。
+
+## [面试题13：在O(1)时间删除链表结点](https://github.com/xiaff/sword-offer-practice/blob/master/10-19/problem_13.cpp)
+给定单向链表的头指针和某结点指针，实现函数在O(1)时间内删除指定节点。
