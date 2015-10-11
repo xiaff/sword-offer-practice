@@ -51,3 +51,6 @@ f(n)=f(n-1)+f(n-2)。
 
 ## [面试题15：倒数第k个结点](https://github.com/xiaff/sword-offer-practice/blob/master/10-19/problem_15.cpp)
 输入一个链表，输出该链表中倒数第k个结点。
+
+## [面试题16：反转链表](https://github.com/xiaff/sword-offer-practice/blob/master/10-19/problem_16.cpp)
+定义一个函数，输入一个链表的头结点，反转该链表并输出反转后链表的头结点。
