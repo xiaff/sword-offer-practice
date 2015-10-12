@@ -57,3 +57,6 @@ f(n)=f(n-1)+f(n-2)。
 
 ## [面试题17：合并两个排序的链表](https://github.com/xiaff/sword-offer-practice/blob/master/10-19/problem_17.cpp)
 输入两个递增排顺序的链表，合并这两个链表并使合并后的链表仍是递增排序的。
+
+## [面试题18：树的子结构](https://github.com/xiaff/sword-offer-practice/blob/master/10-19/problem_18.cpp)
+输入两棵二叉树A和B，判断B是不是A的子结构。
