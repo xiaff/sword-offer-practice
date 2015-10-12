@@ -54,3 +54,6 @@ f(n)=f(n-1)+f(n-2)。
 
 ## [面试题16：反转链表](https://github.com/xiaff/sword-offer-practice/blob/master/10-19/problem_16.cpp)
 定义一个函数，输入一个链表的头结点，反转该链表并输出反转后链表的头结点。
+
+## [面试题17：合并两个排序的链表](https://github.com/xiaff/sword-offer-practice/blob/master/10-19/problem_17.cpp)
+输入两个递增排顺序的链表，合并这两个链表并使合并后的链表仍是递增排序的。
