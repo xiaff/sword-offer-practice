@@ -60,3 +60,6 @@ f(n)=f(n-1)+f(n-2)。
 
 ## [面试题18：树的子结构](https://github.com/xiaff/sword-offer-practice/blob/master/10-19/problem_18.cpp)
 输入两棵二叉树A和B，判断B是不是A的子结构。
+
+## [面试题19：二叉树的镜像](https://github.com/xiaff/sword-offer-practice/blob/master/10-19/problem_19.cpp)
+操作给定的二叉树，将其变换为源二叉树的镜像。
