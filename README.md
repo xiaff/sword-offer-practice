@@ -76,3 +76,7 @@ f(n)=f(n-1)+f(n-2)。
 ## [面试题21：包含min函数的栈](https://github.com/xiaff/sword-offer-practice/blob/master/20-29/problem_21.cpp)
 定义栈的数据结构，请在该类型中实现一个能够得到栈的最小元素的min函数。
 在该栈中，调用min、push及pop的时间复杂度都是O(1)。
+
+## [面试题22：栈的压入、弹出序列](https://github.com/xiaff/sword-offer-practice/blob/master/20-29/problem_22.cpp)
+输入两个整数序列，第一个序列表示栈的压入顺序，请判断第二个序列是否为该栈的弹出顺序。假设压入栈的所有数字均不相等。  
+例如序列1,2,3,4,5是某栈的压入顺序，序列4，5,3,2,1是该压栈序列对应的一个弹出序列，但4,3,5,1,2就不可能是该压栈序列的弹出序列。
