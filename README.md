@@ -87,3 +87,7 @@ f(n)=f(n-1)+f(n-2)。
 ## [面试题24：二叉搜索树的后序遍历序列](https://github.com/xiaff/sword-offer-practice/blob/master/20-29/problem_24.cpp)
 输入一个整数数组，判断该数组是不是某二叉搜索树的后序遍历的结果，如果是则返回true，否则返回false。
 假设输入的数组的任意两个数字互不相同。
+
+## [面试题25：二叉树中和为某一值的路径](https://github.com/xiaff/sword-offer-practice/blob/master/20-29/problem_25.cpp)
+输入一颗二叉树和一个整数，打印出二叉树中结点值的和为输入整数的所有路径。
+路径定义为从树的根结点开始往下一直到叶结点所经过的结点形成一条路径。
