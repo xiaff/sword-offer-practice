@@ -91,3 +91,7 @@ f(n)=f(n-1)+f(n-2)。
 ## [面试题25：二叉树中和为某一值的路径](https://github.com/xiaff/sword-offer-practice/blob/master/20-29/problem_25.cpp)
 输入一颗二叉树和一个整数，打印出二叉树中结点值的和为输入整数的所有路径。
 路径定义为从树的根结点开始往下一直到叶结点所经过的结点形成一条路径。
+
+## [面试题26：复杂链表的复制](https://github.com/xiaff/sword-offer-practice/blob/master/20-29/problem_26.cpp)
+请实现函数ComplexListNode* Clone(ComplexListNode* pHead)，复制一个复杂链表。
+在复杂链表中，每个结点除了有一个pNext指针指向下一个结点之外，还有一个pSibling指向链表中的任意结点或者NULL。
