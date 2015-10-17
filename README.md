@@ -99,3 +99,7 @@ f(n)=f(n-1)+f(n-2)。
 ## [面试题27：二叉搜索树与双向链表](https://github.com/xiaff/sword-offer-practice/blob/master/20-29/problem_27.cpp)
 输入一棵二叉搜索树，将该二叉搜索树转换成一个排序的双向链表。
 要求不能创建任何新的结点，只能调整树中结点指针的指向。
+
+## [面试题28：字符串的排列](https://github.com/xiaff/sword-offer-practice/blob/master/20-29/problem_28.cpp)
+输入一个字符串，打印出该字符串中字符的所有排列。  
+例如输入字符串abc,则打印出由字符a,b,c所能排列出来的所有字符串abc,acb,bac,bca,cab和cba。 
