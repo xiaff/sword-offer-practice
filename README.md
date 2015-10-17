@@ -95,3 +95,7 @@ f(n)=f(n-1)+f(n-2)。
 ## [面试题26：复杂链表的复制](https://github.com/xiaff/sword-offer-practice/blob/master/20-29/problem_26.cpp)
 请实现函数ComplexListNode* Clone(ComplexListNode* pHead)，复制一个复杂链表。
 在复杂链表中，每个结点除了有一个pNext指针指向下一个结点之外，还有一个pSibling指向链表中的任意结点或者NULL。
+
+## [面试题27：二叉搜索树与双向链表](https://github.com/xiaff/sword-offer-practice/blob/master/20-29/problem_27.cpp)
+输入一棵二叉搜索树，将该二叉搜索树转换成一个排序的双向链表。
+要求不能创建任何新的结点，只能调整树中结点指针的指向。
