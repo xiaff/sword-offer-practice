@@ -107,3 +107,6 @@ f(n)=f(n-1)+f(n-2)。
 ## [面试题29：数组中出现次数超过一半的数字](https://github.com/xiaff/sword-offer-practice/blob/master/20-29/problem_29.cpp)
 数组中有一个数字出现的次数超过数组长度的一半，请找出这个数字。  
 例如输入一个长度为9的数组{1,2,3,2,2,2,5,4,2}。由于数字2在数组中出现了5次，超过数组长度的一半，因此输出2。
+
+## [面试题30：最小的k个数](https://github.com/xiaff/sword-offer-practice/blob/master/30-39/problem_30.cpp)
+输入n个整数，找出其中最小的K个数。例如输入4,5,1,6,2,7,3,8这8个数字，则最小的4个数字是1,2,3,4。
