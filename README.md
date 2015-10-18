@@ -103,3 +103,7 @@ f(n)=f(n-1)+f(n-2)。
 ## [面试题28：字符串的排列](https://github.com/xiaff/sword-offer-practice/blob/master/20-29/problem_28.cpp)
 输入一个字符串，打印出该字符串中字符的所有排列。  
 例如输入字符串abc,则打印出由字符a,b,c所能排列出来的所有字符串abc,acb,bac,bca,cab和cba。 
+
+## [面试题29：数组中出现次数超过一半的数字](https://github.com/xiaff/sword-offer-practice/blob/master/20-29/problem_29.cpp)
+数组中有一个数字出现的次数超过数组长度的一半，请找出这个数字。  
+例如输入一个长度为9的数组{1,2,3,2,2,2,5,4,2}。由于数字2在数组中出现了5次，超过数组长度的一半，因此输出2。
