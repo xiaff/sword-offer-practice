@@ -118,6 +118,10 @@ f(n)=f(n-1)+f(n-2)。
 例如输入的数组为1, -2, 3, 10, -4, 7, 2, -5，和最大的子数组为3, 10, -4, 7, 2，
 因此输出为该子数组的和18。
 
-## [面试题32：从1到n整数中1出现的次数](https://github.com/xiaff/sword-offer-practice/blob/master/30-39/problem_31.cpp)
+## [面试题32：从1到n整数中1出现的次数](https://github.com/xiaff/sword-offer-practice/blob/master/30-39/problem_32.cpp)
 输入一个整数n，求从1到n这n个整数的十进制表示中1出现的次数。  
 例如输入12，从1到12这些整数中包含1的数字有1,10,11和12，一共出现了5次。
+
+## [面试题33：把数组排成最小的数](https://github.com/xiaff/sword-offer-practice/blob/master/30-39/problem_33.cpp)
+输入一个正整数数组，把数组里所有数字拼接起来排成一个数，打印能拼接出的所有数字中最小的一个。  
+例如输入数组{3，32，321}，则打印出这三个数字能排成的最小数字为321323。
