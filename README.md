@@ -136,3 +136,6 @@ f(n)=f(n-1)+f(n-2)。
 ## [面试题36：数组中的逆序对](https://github.com/xiaff/sword-offer-practice/blob/master/30-39/problem_36.cpp)
 在数组中的两个数字，如果前面一个数字大于后面的数字，则这两个数字组成一个逆序对。  
 输入一个数组，求出这个数组中的逆序对的总数。
+
+## [面试题37：两个链表的第一个公共结点](https://github.com/xiaff/sword-offer-practice/blob/master/30-39/problem_37.cpp)
+输入两个链表，找出它们的第一个公共结点。
