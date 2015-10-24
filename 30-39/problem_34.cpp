@@ -24,15 +24,15 @@ public:
 		for (int i = 1;i<index;i++) {
 			ugly[i] = min_3(ugly[index2] * 2, ugly[index3] * 3, ugly[index5] * 5);
 
-			if (ugly[i] == ugly[index2] * 2) {
+			while (ugly[i] >= ugly[index2] * 2) {
 				index2++;
 			}
 
-			if (ugly[i] == ugly[index3] * 3) {
+			while (ugly[i] >= ugly[index3] * 3) {
 				index3++;
 			}
 
-			if (ugly[i] == ugly[index5] * 5) {
+			while (ugly[i] >= ugly[index5] * 5) {
 				index5++;
 			}
 		}

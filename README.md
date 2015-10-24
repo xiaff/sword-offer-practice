@@ -132,3 +132,7 @@ f(n)=f(n-1)+f(n-2)。
 
 ## [面试题35：第一个只出现一次的字符](https://github.com/xiaff/sword-offer-practice/blob/master/30-39/problem_35.cpp)
 在字符串中找出第一个只出现1次的字符，如输入“abaccdeff”，则输出b。
+
+## [面试题36：数组中的逆序对](https://github.com/xiaff/sword-offer-practice/blob/master/30-39/problem_36.cpp)
+在数组中的两个数字，如果前面一个数字大于后面的数字，则这两个数字组成一个逆序对。  
+输入一个数组，求出这个数组中的逆序对的总数。
