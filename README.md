@@ -139,3 +139,6 @@ f(n)=f(n-1)+f(n-2)。
 
 ## [面试题37：两个链表的第一个公共结点](https://github.com/xiaff/sword-offer-practice/blob/master/30-39/problem_37.cpp)
 输入两个链表，找出它们的第一个公共结点。
+
+## [面试题38：数字在排序数组中出现的次数](https://github.com/xiaff/sword-offer-practice/blob/master/30-39/problem_38.cpp)
+统计一个数字在排序数组中出现的次数。
