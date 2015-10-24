@@ -142,3 +142,7 @@ f(n)=f(n-1)+f(n-2)。
 
 ## [面试题38：数字在排序数组中出现的次数](https://github.com/xiaff/sword-offer-practice/blob/master/30-39/problem_38.cpp)
 统计一个数字在排序数组中出现的次数。
+
+## [面试题39：二叉树的深度](https://github.com/xiaff/sword-offer-practice/blob/master/30-39/problem_39.cpp)
+输入一棵二叉树，求该树的深度。
+从根结点到叶结点依次经过的结点（含根、叶结点）形成树的一条路径，最长路径的长度为树的深度。
