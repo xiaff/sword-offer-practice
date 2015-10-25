@@ -150,3 +150,6 @@ f(n)=f(n-1)+f(n-2)。
 ## [面试题40：数组中只出现一次的数字](https://github.com/xiaff/sword-offer-practice/blob/master/40-50/problem_40.cpp)
 一个整型数组中除了两个数字之外，其他的数字都出现了两次，
 写出程序找出这两个只出现了一次的数字，时间复杂度要求O(n),空间复杂度要求O(1)。
+
+## [面试题41：和为s的两个数字](https://github.com/xiaff/sword-offer-practice/blob/master/40-50/problem_41.cpp)
+输入一个递增排序的数组和一个数字s，在数组中查找两个数，使得它们的和正好是s，如果有多对数字的和等于s，输出任意一对即可。
