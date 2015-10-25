@@ -146,3 +146,7 @@ f(n)=f(n-1)+f(n-2)。
 ## [面试题39：二叉树的深度](https://github.com/xiaff/sword-offer-practice/blob/master/30-39/problem_39.cpp)
 输入一棵二叉树，求该树的深度。
 从根结点到叶结点依次经过的结点（含根、叶结点）形成树的一条路径，最长路径的长度为树的深度。
+
+## [面试题40：数组中只出现一次的数字](https://github.com/xiaff/sword-offer-practice/blob/master/40-50/problem_40.cpp)
+一个整型数组中除了两个数字之外，其他的数字都出现了两次，
+写出程序找出这两个只出现了一次的数字，时间复杂度要求O(n),空间复杂度要求O(1)。
