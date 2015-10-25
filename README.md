@@ -153,3 +153,9 @@ f(n)=f(n-1)+f(n-2)。
 
 ## [面试题41：和为s的两个数字](https://github.com/xiaff/sword-offer-practice/blob/master/40-50/problem_41.cpp)
 输入一个递增排序的数组和一个数字s，在数组中查找两个数，使得它们的和正好是s，如果有多对数字的和等于s，输出任意一对即可。
+
+## [面试题42：翻转单词顺序 VS 左旋转字符串](https://github.com/xiaff/sword-offer-practice/blob/master/40-50/problem_42.cpp)
+1. 输入一个英文句子，翻转句子中单词的顺序，但单词内字符的顺序不变。
+例如输入字符串"I am a student."，则输出"student. a am I"。
+2. 字符串的左旋转操作是把字符串前面的若干字符转移到字符串的后面。请定义一个函数实现字符串左旋转操作的功能，
+比如：输入字符串"abcdefg"和数字2，该函数将返回左旋转2位得到的结果"cdefgab"。
