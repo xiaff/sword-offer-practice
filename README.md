@@ -176,3 +176,6 @@ f(n)=f(n-1)+f(n-2)。
 
 ## [面试题47：不用加减乘除做加法](https://github.com/xiaff/sword-offer-practice/blob/master/40-50/problem_47.cpp)
 写一个函数，求两个整数之和，要求在函数体内不得使用+、-、*、/四则运算符号。
+
+## [面试题48：不能被继承的类](https://github.com/xiaff/sword-offer-practice/blob/master/40-50/problem_48.cpp)
+写一个不能被继承的类
