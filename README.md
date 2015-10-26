@@ -167,3 +167,6 @@ f(n)=f(n-1)+f(n-2)。
 ## [面试题44：扑克牌的顺子](https://github.com/xiaff/sword-offer-practice/blob/master/40-50/problem_44.cpp)
 从扑克牌中随机抽5张牌，判断是不是一个顺子，即这五张牌是不是连续的，
 2~10为数字本身，A为1，J为11，Q为12，K为13，而大小王可以看成任意数字。
+
+## [面试题45：圆圈中最后剩下的数字](https://github.com/xiaff/sword-offer-practice/blob/master/40-50/problem_45.cpp)
+0,1，...n-1这n个数字排成一个圆圈，从数字0开始每次从这个圆圈里删除第m个数字，求出这个圆圈里剩下的最后一个数字。
