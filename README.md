@@ -182,3 +182,6 @@ f(n)=f(n-1)+f(n-2)。
 
 ## [面试题49：把字符串转换为整数](https://github.com/xiaff/sword-offer-practice/blob/master/40-50/problem_49.cpp)
 将一个字符串转换成一个整数，要求不能使用字符串转换整数的库函数。
+
+## [面试题50：树中两个结点的最低公共祖先](https://github.com/xiaff/sword-offer-practice/blob/master/40-50/problem_50.cpp)
+求树中两个结点的最低公共祖先。
