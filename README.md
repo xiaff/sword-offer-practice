@@ -170,3 +170,6 @@ f(n)=f(n-1)+f(n-2)。
 
 ## [面试题45：圆圈中最后剩下的数字](https://github.com/xiaff/sword-offer-practice/blob/master/40-50/problem_45.cpp)
 0,1，...n-1这n个数字排成一个圆圈，从数字0开始每次从这个圆圈里删除第m个数字，求出这个圆圈里剩下的最后一个数字。
+
+## [面试题46:求1+2+3+....+n](https://github.com/xiaff/sword-offer-practice/blob/master/40-50/problem_46.cpp)
+求1+2+3+...+n，要求不能使用乘除法，for,while,if,else,switch,case等关键字及条件判断语句(a?b:c)。
