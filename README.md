@@ -173,3 +173,6 @@ f(n)=f(n-1)+f(n-2)。
 
 ## [面试题46:求1+2+3+....+n](https://github.com/xiaff/sword-offer-practice/blob/master/40-50/problem_46.cpp)
 求1+2+3+...+n，要求不能使用乘除法，for,while,if,else,switch,case等关键字及条件判断语句(a?b:c)。
+
+## [面试题47：不用加减乘除做加法](https://github.com/xiaff/sword-offer-practice/blob/master/40-50/problem_47.cpp)
+写一个函数，求两个整数之和，要求在函数体内不得使用+、-、*、/四则运算符号。
