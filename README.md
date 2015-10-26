@@ -163,3 +163,7 @@ f(n)=f(n-1)+f(n-2)。
 ## [面试题43：n个骰子的点数](https://github.com/xiaff/sword-offer-practice/blob/master/40-50/problem_43.cpp)
 把n个骰子扔在地上，所有骰子朝上一面的点数之和为s。
 输入n，打印出s的所有可能的值出现的概率。
+
+## [面试题44：扑克牌的顺子](https://github.com/xiaff/sword-offer-practice/blob/master/40-50/problem_44.cpp)
+从扑克牌中随机抽5张牌，判断是不是一个顺子，即这五张牌是不是连续的，
+2~10为数字本身，A为1，J为11，Q为12，K为13，而大小王可以看成任意数字。
